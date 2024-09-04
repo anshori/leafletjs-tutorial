@@ -1,7 +1,8 @@
 # Basic Template
 
-1. Buat file index.html di dalam folder kerja Anda
-2. Tambahkan kode berikut ke dalam file index.html
+1. Buat folder kerja baru dengan nama **leafletjs-tutorial**
+2. Buat file **index.html** di dalam folder kerja Anda
+3. Tuliskan kode berikut ke dalam file **index.html**
 
 ```html
 <!DOCTYPE html>
@@ -20,7 +21,7 @@
 	</head>
 	<body>
 		<div id="map"></div>
-		
+
 		<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 		<script>
 			// Inisialisasi peta
@@ -38,3 +39,6 @@
 	</body>
 </html>
 ```
+
+---
+> [unsorry@2024](https://unsorry.net)
