@@ -25,3 +25,8 @@ Esri_WorldImagery.addTo(map);
 ```
 
 Source tile layer basemap: [https://leaflet-extras.github.io/leaflet-providers/preview/](https://leaflet-extras.github.io/leaflet-providers/preview/)
+
+Reference: [https://leafletjs.com/reference.html#tilelayer](https://leafletjs.com/reference.html#tilelayer)
+
+---
+> [unsorry@2024](https://unsorry.net)

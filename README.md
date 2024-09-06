@@ -1,6 +1,9 @@
 # leafletjs-tutorial
 Tutorial LeafletJS
 
+## LeafletJS Library
+[https://leafletjs.com/](https://leafletjs.com/)
+
 ## Basic
 1. [Basic Template](tutorial/basic-template.md)
 2. [Basemap](tutorial/basemap.md)
@@ -8,8 +11,16 @@ Tutorial LeafletJS
 4. [Circle](tutorial/circle.md)
 5. [Polyline](tutorial/polyline.md)
 6. [Polygon](tutorial/polygon.md)
+8. [Control Layer](tutorial/control-layer.md)
+9. [Scale](tutorial/scale.md)
+10. [Geolocation](tutorial/geolocation.md)
 
 ## GeoJSON Layer
+
+## Plugin
+
+## Additional
+1. [Image Overlay](tutorial/image-overlay.md)
 
 ---   
 > [unsorry@2024](https://unsorry.net)
