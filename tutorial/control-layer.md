@@ -7,6 +7,7 @@ var baseMaps = {
 	"OpenStreetMap": osm,
 	"Esri World Imagery": Esri_WorldImagery,
 	"Esri World Shaded Relief": Esri_WorldShadedRelief,
+	"Rupa Bumi Indonesia": rupabumiindonesia,
 };
 
 var overlayMaps = {

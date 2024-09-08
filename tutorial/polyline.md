@@ -3,12 +3,12 @@
 1. Tambahkan script berikut ini untuk membuat polyline pada peta.
 ```javascript
 // Polyline
-var path = [
+var vertexPolyline = [
 	[-6.1995106, 106.8761802],
 	[-6.1753924, 106.8271528],
 	[-6.2184607, 106.8023014],
 ];
-var polyline = L.polyline(path, {
+var polyline = L.polyline(vertexPolyline, {
 	color: "red", // warna garis
 	weight: 3, // ketebalan garis
 	opacity: 1, // opacity garis

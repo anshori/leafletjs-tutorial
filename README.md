@@ -17,7 +17,8 @@ Tutorial LeafletJS
 
 ## GeoJSON Layer
 
-## Plugin
+## Plugins
+[https://leafletjs.com/plugins.html](https://leafletjs.com/plugins.html)
 
 ## Additional
 1. [Image Overlay](tutorial/image-overlay.md)

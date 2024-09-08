@@ -3,14 +3,14 @@
 1. Tambahkan script berikut ini untuk membuat polygon pada peta.
 ```javascript
 // Polygon
-var vertex = [
+var vertexPolygon = [
 	[-6.1574398,106.7968941],
 	[-6.1569275,106.8614388],
 	[-6.1849327,106.8506241],
 	[-6.1999592,106.8593788],
 	[-6.2119118,106.7901993]
 ];
-var polygon = L.polygon(vertex, {
+var polygon = L.polygon(vertexPolygon, {
 	color: "purple", // warna garis
 	weight: 3, // ketebalan garis
 	opacity: 1, // opacity garis

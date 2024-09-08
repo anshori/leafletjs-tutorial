@@ -14,9 +14,8 @@ var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest
 	attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 });
 
-var Esri_WorldShadedRelief = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
-	attribution: 'Tiles &copy; Esri &mdash; Source: Esri',
-	maxZoom: 13
+var rupabumiindonesia = L.tileLayer('https://geoservices.big.go.id/rbi/rest/services/BASEMAP/Rupabumi_Indonesia/MapServer/tile/{z}/{y}/{x}', {
+	attribution: 'Badan Informasi Geospasial'
 });
 
 // Menambahkan basemap ke dalam peta
@@ -24,7 +23,7 @@ Esri_WorldImagery.addTo(map);
 
 ```
 
-Source tile layer basemap: [https://leaflet-extras.github.io/leaflet-providers/preview/](https://leaflet-extras.github.io/leaflet-providers/preview/)
+Source tile layer basemap: [https://anshori.github.io/leaflet-providers/preview/](https://anshori.github.io/leaflet-providers/preview/)
 
 Reference: [https://leafletjs.com/reference.html#tilelayer](https://leafletjs.com/reference.html#tilelayer)
 
