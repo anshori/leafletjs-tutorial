@@ -15,10 +15,12 @@ Tutorial LeafletJS
 9. [Scale](tutorial/scale.md)
 10. [Geolocation](tutorial/geolocation.md)
 
-## GeoJSON Layer
 
 ## Plugins
 [https://leafletjs.com/plugins.html](https://leafletjs.com/plugins.html)
+
+## GeoJSON Layer
+[https://leafletjs.com/reference.html#geojson](https://leafletjs.com/reference.html#geojson)
 
 ## Additional
 1. [Image Overlay](tutorial/image-overlay.md)
