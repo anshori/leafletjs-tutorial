@@ -15,12 +15,16 @@ Tutorial LeafletJS
 9. [Scale](tutorial/scale.md)
 10. [Geolocation](tutorial/geolocation.md)
 
+## GeoJSON Layer
+1. [jQuery](tutorial/jquery.md)
+2. [GeoJSON Point](tutorial/geojson-point.md)
+3. [GeoJSON Polyline](tutorial/geojson-polyline.md)
+4. [GeoJSON Polygon](tutorial/geojson-polygon.md)
+5. [Symbology Categorized](tutorial/symbology-categorized.md)
+6. [Symbology Graduated](tutorial/symbology-graduated.md)
 
 ## Plugins
 [https://leafletjs.com/plugins.html](https://leafletjs.com/plugins.html)
-
-## GeoJSON Layer
-[https://leafletjs.com/reference.html#geojson](https://leafletjs.com/reference.html#geojson)
 
 ## Additional
 1. [Image Overlay](tutorial/image-overlay.md)
