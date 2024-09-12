@@ -1,3 +1,5 @@
+[<< Back](../README.md)
+
 # GeoJSON Polygon
 
 1. Setelah menambahkan library jQuery, tambahkan script berikut ini untuk membuat GeoJSON Polygon pada peta.

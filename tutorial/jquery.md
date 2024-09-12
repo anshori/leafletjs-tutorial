@@ -1,3 +1,5 @@
+[<< Back](../README.md)
+
 # jQuery
 
 1. Tambahkan script berikut ini di dalam body untuk memanggil library jQuery.

@@ -1,3 +1,5 @@
+[<< Back](../README.md)
+
 # Polygon
 
 1. Tambahkan script berikut ini untuk membuat polygon pada peta.

@@ -1,3 +1,5 @@
+[<< Back](../README.md)
+
 # GeoJSON Point
 
 1. Setelah menambahkan library jQuery, tambahkan script berikut ini untuk membuat GeoJSON Point pada peta.

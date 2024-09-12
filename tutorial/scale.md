@@ -1,3 +1,5 @@
+[<< Back](../README.md)
+
 # Scale
 
 1. Tambahkan script berikut ini untuk membuat skala (scale) pada peta.

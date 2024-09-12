@@ -1,3 +1,5 @@
+[<< Back](../README.md)
+
 # Basemap
 
 1. Pada bagian script **Tile Layer Base Map** ubahlah variabel **basemap** menjadi beberapa jenis basemap misalnya OSM, ESRI Word Imagery, ESRI Topo, dll.
