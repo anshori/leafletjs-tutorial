@@ -22,6 +22,8 @@ Tutorial LeafletJS
 4. [GeoJSON Polygon](tutorial/geojson-polygon.md)
 5. [Symbology Categorized](tutorial/symbology-categorized.md)
 6. [Symbology Graduated](tutorial/symbology-graduated.md)
+7. [Filter](tutorial/filter.md)
+8. [Pane](tutorial/pane.md)
 
 ## Plugins
 [https://leafletjs.com/plugins.html](https://leafletjs.com/plugins.html)
