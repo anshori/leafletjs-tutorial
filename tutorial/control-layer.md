@@ -24,5 +24,10 @@ controllayer.addTo(map);
 
 Reference: [https://leafletjs.com/reference.html#control-layers](https://leafletjs.com/reference.html#control-layers)
 
+
+### **_Contoh_**
+
+[https://anshori.github.io/leafletjs-tutorial/sample/7-control-layer.html](https://anshori.github.io/leafletjs-tutorial/sample/7-control-layer.html)
+
 ---
 > [unsorry@2024](https://unsorry.net)

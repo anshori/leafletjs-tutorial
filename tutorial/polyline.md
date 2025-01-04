@@ -36,5 +36,10 @@ polyline.openTooltip();
 
 Reference: [https://leafletjs.com/reference.html#polyline](https://leafletjs.com/reference.html#polyline)
 
+
+### **_Contoh_**
+
+[https://anshori.github.io/leafletjs-tutorial/sample/5-polyline.html](https://anshori.github.io/leafletjs-tutorial/sample/5-polyline.html)
+
 ---
 > [unsorry@2024](https://unsorry.net)

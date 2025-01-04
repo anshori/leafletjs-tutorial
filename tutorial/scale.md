@@ -26,5 +26,10 @@ var scale = L.control.scale({
 ```
 Reference: [https://leafletjs.com/reference.html#control-scale](https://leafletjs.com/reference.html#control-scale)
 
+
+### **_Contoh_**
+
+[https://anshori.github.io/leafletjs-tutorial/sample/8-scale.html](https://anshori.github.io/leafletjs-tutorial/sample/8-scale.html)
+
 ---
 > [unsorry@2024](https://unsorry.net)

@@ -22,12 +22,16 @@ var rupabumiindonesia = L.tileLayer('https://geoservices.big.go.id/rbi/rest/serv
 
 // Menambahkan basemap ke dalam peta
 rupabumiindonesia.addTo(map);
-
 ```
 
 Source tile layer basemap: [https://anshori.github.io/leaflet-providers/preview/](https://anshori.github.io/leaflet-providers/preview/)
 
 Reference: [https://leafletjs.com/reference.html#tilelayer](https://leafletjs.com/reference.html#tilelayer)
+
+
+### **_Contoh_**
+
+[https://anshori.github.io/leafletjs-tutorial/sample/2-basemap.html](https://anshori.github.io/leafletjs-tutorial/sample/2-basemap.html)
 
 ---
 > [unsorry@2024](https://unsorry.net)

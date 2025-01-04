@@ -33,5 +33,10 @@ map.on("locationerror", onLocationError);
 
 Reference: [https://leafletjs.com/reference.html#locationevent](https://leafletjs.com/reference.html#locationevent)
 
+
+### **_Contoh_**
+
+[https://anshori.github.io/leafletjs-tutorial/sample/9-geolocation.html](https://anshori.github.io/leafletjs-tutorial/sample/9-geolocation.html)
+
 ---
 > [unsorry@2024](https://unsorry.net)

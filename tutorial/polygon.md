@@ -40,5 +40,10 @@ polygon.openTooltip();
 
 Reference: [https://leafletjs.com/reference.html#polygon](https://leafletjs.com/reference.html#polygon)
 
+
+### **_Contoh_**
+
+[https://anshori.github.io/leafletjs-tutorial/sample/6-polygon.html](https://anshori.github.io/leafletjs-tutorial/sample/6-polygon.html)
+
 ---
 > [unsorry@2024](https://unsorry.net)
