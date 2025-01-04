@@ -31,5 +31,11 @@ Tutorial LeafletJS
 ## Additional
 1. [Image Overlay](tutorial/18-image-overlay.md)
 
+## Training
+Kontak kami:
+- [m.anshory@gmail.com](mailto:m.anshory@gmail.com)
+- [sinaugis@gmail.com](mailto:sinaugis@gmail.com)
+- [SinauGIS Official 0895421712737](https://wa.me/0895421712737)
+
 ---   
 > [unsorry@2024](https://unsorry.net)
