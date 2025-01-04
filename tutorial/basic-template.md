@@ -47,7 +47,7 @@
 
 **_Contoh_**:
 
-<iframe src="https://anshori.github.io/leafletjs-mapcentercoordinate/" width="100%" height="500px"></iframe>
+<iframe src="https://anshori.github.io/leafletjs-tutorial/sample/1-basic-template.html" width="100%" height="500px"></iframe>
 
 ---
 > [unsorry@2024](https://unsorry.net)
