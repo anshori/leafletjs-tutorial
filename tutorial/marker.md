@@ -14,14 +14,14 @@ marker.addTo(map);
 2. Tambahkan script berikut ini untuk menambahkan popup pada marker.
 ```javascript
 // Popup
-marker.bindPopup("<b>Hallo</b><br>Ini adalah popup");
+marker.bindPopup("<b>Hallo</b><br>Ini adalah popup marker");
 marker.openPopup();
 ```
 
 3. Tambahkan script berikut ini untuk menambahkan tooltip pada marker.
 ```javascript
 // Tooltip
-marker.bindTooltip("Ini adalah tooltip");
+marker.bindTooltip("Ini adalah tooltip marker");
 marker.openTooltip();
 ```
 

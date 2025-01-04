@@ -21,7 +21,7 @@ var rupabumiindonesia = L.tileLayer('https://geoservices.big.go.id/rbi/rest/serv
 });
 
 // Menambahkan basemap ke dalam peta
-Esri_WorldImagery.addTo(map);
+rupabumiindonesia.addTo(map);
 
 ```
 

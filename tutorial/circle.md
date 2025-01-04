@@ -20,14 +20,14 @@ circle.addTo(map);
 2. Tambahkan script berikut ini untuk menambahkan popup pada circle.
 ```javascript
 // Popup
-circle.bindPopup("<b>Hallo</b><br>Ini adalah popup");
+circle.bindPopup("<b>Hallo</b><br>Ini adalah popup circle");
 circle.openPopup();
 ```
 
 3. Tambahkan script berikut ini untuk menambahkan tooltip pada circle.
 ```javascript
 // Tooltip
-circle.bindTooltip("Ini adalah tooltip");
+circle.bindTooltip("Ini adalah tooltip circle");
 circle.openTooltip();
 ```
 

@@ -27,14 +27,14 @@ polygon.addTo(map);
 2. Tambahkan script berikut ini untuk menambahkan popup pada polygon.
 ```javascript
 // Popup
-polygon.bindPopup("<b>Hallo</b><br>Ini adalah popup");
+polygon.bindPopup("<b>Hallo</b><br>Ini adalah popup polygon");
 polygon.openPopup();
 ```
 
 3. Tambahkan script berikut ini untuk menambahkan tooltip pada polygon.
 ```javascript
 // Tooltip
-polygon.bindTooltip("Ini adalah tooltip");
+polygon.bindTooltip("Ini adalah tooltip polygon");
 polygon.openTooltip();
 ```
 

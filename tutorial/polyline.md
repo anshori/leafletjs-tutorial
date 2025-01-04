@@ -23,14 +23,14 @@ polyline.addTo(map);
 2. Tambahkan script berikut ini untuk menambahkan popup pada polyline.
 ```javascript
 // Popup
-polyline.bindPopup("<b>Hallo</b><br>Ini adalah popup");
+polyline.bindPopup("<b>Hallo</b><br>Ini adalah popup polyline");
 polyline.openPopup();
 ```
 
 3. Tambahkan script berikut ini untuk menambahkan tooltip pada polyline.
 ```javascript
 // Tooltip
-polyline.bindTooltip("Ini adalah tooltip");
+polyline.bindTooltip("Ini adalah tooltip polyline");
 polyline.openTooltip();
 ```
 
