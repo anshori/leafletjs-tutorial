@@ -45,9 +45,7 @@
 4. Untuk menentukan lokasi peta, gunakan fungsi `setView` dengan parameter koordinat latitude dan longitude serta zoom yang dapat diperoleh dengan mudah dari [https://anshori.github.io/leafletjs-mapcentercoordinate](https://anshori.github.io/leafletjs-mapcentercoordinate)
 
 
-**_Contoh_**:
-
-<iframe src="https://anshori.github.io/leafletjs-tutorial/sample/1-basic-template.html" width="100%" height="500px"></iframe>
+**_Contoh_**: [https://anshori.github.io/leafletjs-tutorial/sample/1-basic-template.html](https://anshori.github.io/leafletjs-tutorial/sample/1-basic-template.html){:target="_blank"}
 
 ---
 > [unsorry@2024](https://unsorry.net)
