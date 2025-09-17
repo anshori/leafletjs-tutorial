@@ -16,7 +16,7 @@ Tutorial LeafletJS
 10. [Geolocation](tutorial/9-geolocation.md)
 
 ## GeoJSON Layer
-1. [jQuery](tutorial/10-jquery.md)
+1. [Load GeoJSON File](tutorial/10-load-geojson-file.md)
 2. [GeoJSON Point](tutorial/11-geojson-point.md)
 3. [GeoJSON Polyline](tutorial/12-geojson-polyline.md)
 4. [GeoJSON Polygon](tutorial/13-geojson-polygon.md)
