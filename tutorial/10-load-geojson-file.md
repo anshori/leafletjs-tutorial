@@ -7,14 +7,16 @@
 1. Tambahkan script berikut ini untuk memanggil data GeoJSON
 ```javascript
 // Define layer groups
-let jumlahpenduduk = L.layerGroup();
+let layername = L.layerGroup();
 
 // Load geojson file
 fetch('data/jumlah_penduduk.geojson')
     .then(response => response.json())
     .then(data => {
-        L.geoJSON(data).addTo(jumlahpenduduk);
+        L.geoJSON(data).addTo(layername);
     });
+
+layername.addTo(map);
 ```
 
 ## using jQuery
